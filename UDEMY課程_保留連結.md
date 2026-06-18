@@ -155,3 +155,5 @@
 
 - [Learn to Build a Computer (PC) in 2026 - all types!](https://www.udemy.com/course/computer-building/?couponCode=2021PM20)
 - [The Complete Guide to Becoming a Software Architect](https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/?couponCode=2021PM20)
+- [Clean Code](https://www.udemy.com/course/writing-clean-code/?couponCode=26BBPAAO2MX)
+

@@ -4,7 +4,7 @@
 
 ## Machine Learning / Mathematics
 
-- [\[2026\] Machine Learning: Natural Language Processing (V2)](http://udemy.com/course/natural-language-processing-in-python/)
+- [\[2026\] Machine Learning: Natural Language Processing (V2)](http://udemy.com/course/natural-language-processing-in-python/) [摘要](學術能力.md) 
 - [Math 0-1: Linear Algebra for Data Science & Machine Learning](https://www.udemy.com/course/linear-algebra-data-science/?couponCode=25BBPMXINACTIVE)
 - [Artificial Intelligence: Reinforcement Learning in Python](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/)
 - [Advanced AI: Deep Reinforcement Learning in PyTorch (v2)](https://www.udemy.com/course/deep-reinforcement-learning-in-pytorch/?couponCode=25BBPMXINACTIVE)
@@ -18,7 +18,7 @@
 
 ## Embedded Systems / STM32 / ARM
 
-- [ARM Cortex M Microcontroller DMA Programming Demystified](https://www.udemy.com/course/microcontroller-dma-programming-fundamentals-to-advanced/?couponCode=25BBPMXINACTIVE)
+- [ARM Cortex M Microcontroller DMA Programming Demystified](https://www.udemy.com/course/microcontroller-dma-programming-fundamentals-to-advanced/?couponCode=25BBPMXINACTIVE)   [摘要](ARM_Cortex_M_DMA_Course_Analysis.md) 
 - [ARMv8-M TrustZone on Cortex-M33 with LPC55S69](https://www.udemy.com/course/armv8-m-trust-zone-on-cortex-m33-embedded-security/?couponCode=PMNVD2025)
 - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/?couponCode=25BBPMXINACTIVE)
 - [Embedded Systems Bare-Metal Programming Ground Up™ (STM32)](https://www.udemy.com/course/embedded-systems-bare-metal-programming/?couponCode=25BBPMXINACTIVE)
@@ -62,12 +62,12 @@
 
 - [Mastering Voice AI : From ASR to Emotion AI to Voice Cloning](https://www.udemy.com/course/mastering-speech-language-models-from-asr-to-emotion-ai/?couponCode=25BBPMXINACTIVE)
 - [Mistral AI: Voxtral TTS (text to speech), Vision & AI Agents](https://www.udemy.com/course/mistral-ai-text-to-speech-agents/?couponCode=25BBPMXINACTIVE)
-- [Speech Recognition with Python](https://www.udemy.com/course/speech-recognition-with-python/?couponCode=25BBPMXINACTIVE)
-- [AI Voice Agents: Automation with Vapi, ElevenLabs, n8n & MCP](https://www.udemy.com/course/ai-voice-agents-automation-with-vapi-elevenlabs-n8n-mcp/?couponCode=25BBPMXINACTIVE)
+- [Speech Recognition with Python](https://www.udemy.com/course/speech-recognition-with-python/?couponCode=25BBPMXINACTIVE) 
+- [AI Voice Agents: Automation with Vapi, ElevenLabs, n8n & MCP](https://www.udemy.com/course/ai-voice-agents-automation-with-vapi-elevenlabs-n8n-mcp/?couponCode=25BBPMXINACTIVE)  [[AI_Voice_Agents_課程分析整理|摘要]]
 
 ## Local LLM / Deployment
 
-- [AI/LLM Deployment Engineer (Local & Offline)](https://www.udemy.com/course/ai-llm-deployment-engineer/?couponCode=25BBPMXINACTIVE)
+- [AI/LLM Deployment Engineer (Local & Offline)](https://www.udemy.com/course/ai-llm-deployment-engineer/?couponCode=25BBPMXINACTIVE)   
 - [Ollama & Local LLMs: Fine-Tune, Deploy, Build Python AI Apps](https://www.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/?couponCode=25BBPMXINACTIVE)
 - [Local AI Masterclass: LLMs, Diffusion & AI-Agents on Your PC](https://www.udemy.com/course/local-ai-masterclass-llms-diffusion-ai-agents-on-your-pc/?couponCode=25BBPMXINACTIVE)
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=25BBPMXINACTIVE)
@@ -82,16 +82,16 @@
 
 ## MLOps / LLMOps
 
-- [LLMOps And AIOps Bootcamp With 8 End To End Projects](https://www.udemy.com/course/llmops-and-aiops-bootcamp-with-9-end-to-end-projects/?couponCode=PMNVD2025)
-- [Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=PMNVD2025)
+- [LLMOps And AIOps Bootcamp With 8 End To End Projects](https://www.udemy.com/course/llmops-and-aiops-bootcamp-with-9-end-to-end-projects/?couponCode=PMNVD2025)    [[LLMOps And AIOps Bootcamp With 8 End To End Projects|摘要]]
+- [Complete MLOps Bootcamp With 10+ End To End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=PMNVD2025)    [[  |摘要]]
 
 ## Software Engineering / QA
 
-- [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/?couponCode=PMNVD2025)
+- [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/?couponCode=PMNVD2025)     [[  |摘要]]
 - [The Complete 2026 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/?couponCode=PMNVD2025)
 - [MasterClass Software Testing with Jira & Agile -Be a QA Lead](https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/?couponCode=PMNVD2025)
 - [Software Testing Masterclass (2026) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/?couponCode=PMNVD2025)
-- [Practical Software Testing 2026-Manual+JIRA+API+DB+Selenium](https://www.udemy.com/course/selenium-cucumber-integration/?couponCode=PMNVD2025)
+- [Practical Software Testing 2026-Manual+JIRA+API+DB+Selenium](https://www.udemy.com/course/selenium-cucumber-integration/?couponCode=PMNVD2025)  
 - [Gen AI for QA: Test Automation with Claude & GitHub Copilot](https://www.udemy.com/course/generative-ai-test-automation/?couponCode=PMNVD2025)
 - [Build GenAI & Multi-Agent Systems Tools for Software Testing](https://www.udemy.com/course/genai-multi-agent-software-testing/?couponCode=PMNVD2025)
 - [GenAI & AI Agents for QA Automation | Copilot & Claude code](https://www.udemy.com/course/generative-ai-in-software-testing/?couponCode=PMNVD2025)
