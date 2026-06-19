@@ -51,7 +51,7 @@
 
 - [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics)
 - [Self Driving and ROS 2 - Learn by Doing! Odometry & Control](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-odometry-control/?couponCode=25BBPMXINACTIVE)
-- [Self Driving and ROS 2 - Learn by Doing! Map & Localization](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-map-localization/?couponCode=25BBPMXINACTIVE)
+- [Self Driving and ROS 2 - Learn by Doing! Map & Localization](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-map-localization/?couponCode=25BBPMXINACTIVE)   [[Self Driving and ROS 2 - Learn by Doing Map and Localization|摘要]]
 - [Self Driving and ROS 2 - Learn by Doing! Plan & Navigation](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/?couponCode=25BBPMXINACTIVE)
 - [ROS 2 for Beginners Level 2 - TF | URDF | RViz | Gazebo](https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/?couponCode=25BBPMXINACTIVE)
 - [ROS 2 for Beginners Level 3 - Advanced Concepts](https://www.udemy.com/course/ros2-advanced-core-concepts/?couponCode=25BBPMXINACTIVE)
@@ -61,7 +61,7 @@
 ## Speech AI / Voice Agents
 
 - [Mastering Voice AI : From ASR to Emotion AI to Voice Cloning](https://www.udemy.com/course/mastering-speech-language-models-from-asr-to-emotion-ai/?couponCode=25BBPMXINACTIVE)
-- [Mistral AI: Voxtral TTS (text to speech), Vision & AI Agents](https://www.udemy.com/course/mistral-ai-text-to-speech-agents/?couponCode=25BBPMXINACTIVE)
+- [Mistral AI: Voxtral TTS (text to speech), Vision & AI Agents](https://www.udemy.com/course/mistral-ai-text-to-speech-agents/?couponCode=25BBPMXINACTIVE)   [[Mistral AI Voxtral TTS Vision and AI Agents|摘要]]
 - [Speech Recognition with Python](https://www.udemy.com/course/speech-recognition-with-python/?couponCode=25BBPMXINACTIVE) 
 - [AI Voice Agents: Automation with Vapi, ElevenLabs, n8n & MCP](https://www.udemy.com/course/ai-voice-agents-automation-with-vapi-elevenlabs-n8n-mcp/?couponCode=25BBPMXINACTIVE)  [[AI_Voice_Agents_課程分析整理|摘要]]
 

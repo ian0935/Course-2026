@@ -1,39 +1,7 @@
 # Machine Learning / Mathematics 課程分析比較
 
-# Table of Contents
-
-- [1. 課程總覽比較](#1-課程總覽比較)
-- [2. 數學基礎類課程](#2-數學基礎類課程)
-  - [Math 0-1: Linear Algebra for Data Science & Machine Learning](#math-0-1-linear-algebra-for-data-science--machine-learning)
-  - [Master Linear Algebra: Theory and Implementation in Code](#master-linear-algebra-theory-and-implementation-in-code)
-  - [Master Statistics using R](#master-statistics-using-r)
-
-- [3. Deep Learning 主線](#3-deep-learning-主線)
-  - [Deep Learning A-Z [2026]](#deep-learning-a-z-2026)
-  - [The Complete Neural Networks Bootcamp](#the-complete-neural-networks-bootcamp)
-  - [A Deep Understanding of Deep Learning](#a-deep-understanding-of-deep-learning)
-
-- [4. NLP 系列](#4-nlp-系列)
-  - [Machine Learning: Natural Language Processing (V2)](#machine-learning-natural-language-processing-v2)
-
-- [5. Reinforcement Learning 系列](#5-reinforcement-learning-系列)
-  - [Artificial Intelligence: Reinforcement Learning in Python](#artificial-intelligence-reinforcement-learning-in-python)
-  - [Deep Reinforcement Learning in PyTorch (v2)](#deep-reinforcement-learning-in-pytorch-v2)
-  - [Deep Reinforcement Learning in PyTorch IV](#deep-reinforcement-learning-in-pytorch-iv)
-  - [Reinforcement Learning Projects with Python](#reinforcement-learning-projects-with-python)
-
-- [6. 對赫霆最重要的課程排名](#6-對赫霆最重要的課程排名)
-
-- [7. 建議學習順序](#7-建議學習順序)
-
-- [8. 最重要的 50 個 Keywords](#8-最重要的-50-個-keywords)
-
-- [9. 一句話總結](#9-一句話總結)
-
-
-##   適用對象：AI Engineer、ML Engineer、Researcher、競賽選手、準研究生  
-
-## 目標：分析各課程的定位、重點、主要綱要、Keywords、適合的學習階段與推薦順序。
+> 適用對象：AI Engineer、ML Engineer、Researcher、競賽選手、準研究生  
+> 目標：分析各課程的定位、重點、主要綱要、Keywords、適合的學習階段與推薦順序。
 
 ---
 
